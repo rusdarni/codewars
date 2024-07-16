@@ -6,3 +6,5 @@
 multiply = function (a, b) {
     return a * b;
 }
+
+console.log("multiply: ", multiply(2, 3))
