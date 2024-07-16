@@ -15,3 +15,5 @@ function squareSum(numbers){
     }
     return sum;
 }
+
+console.log("squareSum: ", squareSum(1, 2, 3))
