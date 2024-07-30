@@ -18,4 +18,4 @@ function findAverage(array) {
     return average;
 }
 
-console.log("findAverage: ", findAverage(1,2,1))
+console.log("findAverage: ", findAverage(1,1,1))
